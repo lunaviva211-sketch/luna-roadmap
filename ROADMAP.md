@@ -12,7 +12,7 @@
 ### ✅ Capacidades Desplegadas
 - [x] **Comunicación:** Telegram, AgentMail, Gmail.
 - [x] **Gestión de Tareas:** Trello (Modo Faena).
-- [x] **Identidad Soberana:** GitHub (`lunaviva211-sketch`), Gmail (`lunaviva211@gmail.com`).
+- [x] **Identidad Soberana:** GitHub (`.
 - [x] **Autonomía Básica:** Heartbeats cada 5 min, monitoreo de sistema, auto-reparación simple.
 - [x] **Memoria:** Estratificada (Diaria, Curada, Trello, Vectorial).
 
